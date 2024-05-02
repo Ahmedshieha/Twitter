@@ -4,6 +4,7 @@
 2. MVVM Clean Architecture
 3. Combine
 4. URLSession Network
+5. Unit test 
 
 # Repository Demo Screen
 
